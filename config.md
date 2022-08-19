@@ -8,4 +8,4 @@ $ yarn tsc --init
 $ yarn tsc
 
 -- run: 
-$ node dist/<directory>/file.j
+$ node dist/<directory>/file.js
