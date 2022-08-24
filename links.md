@@ -1,4 +1,4 @@
 ### Links para estudo:
-- Singleton Teoria - Padrões de Projeto: https://www.youtube.com/watch?v=x9h8MgAvi_I&list=PLbIBj8vQhvm0VY5YrMrafWaQY2EnJ3j8H&index=4
+- Abstract Factory Teoria - Padrões de Projeto: https://www.youtube.com/watch?v=UPSuHqNsNs4&list=PLbIBj8vQhvm0VY5YrMrafWaQY2EnJ3j8H&index=12
 
-- Singleton Prática - Padrões de Projeto: https://www.youtube.com/watch?v=JnCWTbICOWg&list=PLbIBj8vQhvm0VY5YrMrafWaQY2EnJ3j8H&index=5
+- Abstract Factory Prática - Padrões de Projeto: https://www.youtube.com/watch?v=36SzKmNnXdM&list=PLbIBj8vQhvm0VY5YrMrafWaQY2EnJ3j8H&index=13

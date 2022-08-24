@@ -1,0 +1,10 @@
+"use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
+const enterprise_customer_vehicle_factory_1 = require("./factories/enterprise-customer-vehicle-factory");
+const individual_customer_vehicle_factory_1 = require("./factories/individual-customer-vehicle-factory");
+const enterpriseFactory = new enterprise_customer_vehicle_factory_1.EnterpriseCreateVehicleCustomerFactory();
+const individualFactory = new individual_customer_vehicle_factory_1.IndividualCreateVehicleCustomerFactory();
+const car1 = enterpriseFactory.createVehicle("Onix", "John");
+const car2 = individualFactory.createVehicle("BMW", "Suzan");
+car1.pickup();
+car2.pickup();
