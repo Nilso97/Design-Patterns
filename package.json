@@ -1,12 +1,11 @@
 {
-  "name": "singleton",
+  "name": "patterns",
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
-  "scripts": {
-    "start": "node dist/db/my-database-classic.js"
-  },
   "devDependencies": {
-    "typescript": "^4.7.4"
+    "@types/validator": "^13.7.5",
+    "typescript": "^4.8.2",
+    "validator": "^13.7.0"
   }
 }
