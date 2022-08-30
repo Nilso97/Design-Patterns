@@ -1,4 +1,4 @@
 ### Links para estudo:
-- Singleton Teoria - Padrões de Projeto: https://www.youtube.com/watch?v=x9h8MgAvi_I&list=PLbIBj8vQhvm0VY5YrMrafWaQY2EnJ3j8H&index=4
+- Decorator Teoria - Padrões de Projeto: https://www.youtube.com/watch?v=p3Dh7VjxudE&list=PLbIBj8vQhvm0VY5YrMrafWaQY2EnJ3j8H&index=20
 
-- Singleton Prática - Padrões de Projeto: https://www.youtube.com/watch?v=JnCWTbICOWg&list=PLbIBj8vQhvm0VY5YrMrafWaQY2EnJ3j8H&index=5
+- Decorator Prática - Padrões de Projeto: https://www.youtube.com/watch?v=IjigJlX8hMM&list=PLbIBj8vQhvm0VY5YrMrafWaQY2EnJ3j8H&index=21
