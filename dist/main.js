@@ -1,0 +1,11 @@
+"use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
+const product_customization_decorator_1 = require("./product/product-customization-decorator");
+const product_stamp_decorator_1 = require("./product/product-stamp-decorator");
+const t_shirt_1 = require("./product/t-shirt");
+const tShirt = new t_shirt_1.TShirt();
+const stampedTShirt = new product_stamp_decorator_1.ProductStampDecorator(tShirt);
+const customizedTShirt = new product_customization_decorator_1.ProductCustomizationDecorator(tShirt);
+console.log(tShirt.getPrice(), tShirt.getName());
+console.log(stampedTShirt.getPrice(), stampedTShirt.getName());
+console.log(customizedTShirt.getPrice(), customizedTShirt.getName());
