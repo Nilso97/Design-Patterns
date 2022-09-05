@@ -1,0 +1,12 @@
+"use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
+const delivery_context_1 = require("./delivery/delivery-context");
+const delivery_factory_1 = require("./delivery/delivery-factory");
+const factory = new delivery_factory_1.DeliveryFactory();
+(0, delivery_context_1.deliveryContext)(factory, "John Doe", "20A", "Av. Brasil", "SP");
+(0, delivery_context_1.deliveryContext)(factory, "Karen", "20A", "Av. Brasil", "SP");
+(0, delivery_context_1.deliveryContext)(factory, "Michael", "502", "Av. Brasil", "SP");
+(0, delivery_context_1.deliveryContext)(factory, "Lucas", "207", "15 de Novembro", "BH");
+(0, delivery_context_1.deliveryContext)(factory, "Will", "35", "Av. Atlântida", "BC");
+console.log();
+console.log(factory.getLocations());
