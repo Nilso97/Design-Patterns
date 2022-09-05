@@ -1,4 +1,6 @@
-### Links para estudo:
-- Singleton Teoria - Padrões de Projeto: https://www.youtube.com/watch?v=x9h8MgAvi_I&list=PLbIBj8vQhvm0VY5YrMrafWaQY2EnJ3j8H&index=4
+### Links para estudo: 
+- Flyweight Teoria - Padrões de Projeto: https://www.youtube.com/watch?v=WPQa64bdQbk&list=PLbIBj8vQhvm0VY5YrMrafWaQY2EnJ3j8H&index=25
 
-- Singleton Prática - Padrões de Projeto: https://www.youtube.com/watch?v=JnCWTbICOWg&list=PLbIBj8vQhvm0VY5YrMrafWaQY2EnJ3j8H&index=5
+- Flyweight Prática - Padrões de Projeto: https://www.youtube.com/watch?v=GZdRKXyZcbo&list=PLbIBj8vQhvm0VY5YrMrafWaQY2EnJ3j8H&index=26
+
+- Leitura sobre o Padrão Flyweight: https://refactoring.guru/pt-br/design-patterns/flyweight
