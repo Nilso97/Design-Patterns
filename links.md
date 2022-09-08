@@ -1,4 +1,4 @@
 ### Links para estudo:
-- Singleton Teoria - Padrões de Projeto: https://www.youtube.com/watch?v=x9h8MgAvi_I&list=PLbIBj8vQhvm0VY5YrMrafWaQY2EnJ3j8H&index=4
+- Command Teoria - Padrões de Projeto: https://www.youtube.com/watch?v=WwDnYXr7jqk&list=PLbIBj8vQhvm0VY5YrMrafWaQY2EnJ3j8H&index=29
 
-- Singleton Prática - Padrões de Projeto: https://www.youtube.com/watch?v=JnCWTbICOWg&list=PLbIBj8vQhvm0VY5YrMrafWaQY2EnJ3j8H&index=5
+- Command Prática - Padrões de Projeto: https://www.youtube.com/watch?v=-lRzadP9kJQ&list=PLbIBj8vQhvm0VY5YrMrafWaQY2EnJ3j8H&index=30
