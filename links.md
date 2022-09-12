@@ -1,4 +1,4 @@
 ### Links para estudo:
-- Singleton Teoria - Padrões de Projeto: https://www.youtube.com/watch?v=x9h8MgAvi_I&list=PLbIBj8vQhvm0VY5YrMrafWaQY2EnJ3j8H&index=4
+- Memento Teoria - Padrões de Projeto: https://www.youtube.com/watch?v=crmLq8_FtLc&list=PLbIBj8vQhvm0VY5YrMrafWaQY2EnJ3j8H&index=31&t=3s
 
-- Singleton Prática - Padrões de Projeto: https://www.youtube.com/watch?v=JnCWTbICOWg&list=PLbIBj8vQhvm0VY5YrMrafWaQY2EnJ3j8H&index=5
+- Memento Prática - Padrões de Projeto: https://www.youtube.com/watch?v=_NodX2wZ2w4&list=PLbIBj8vQhvm0VY5YrMrafWaQY2EnJ3j8H&index=32
