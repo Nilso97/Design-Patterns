@@ -1,4 +1,4 @@
 ### Links para estudo:
-- Singleton Teoria - Padrões de Projeto: https://www.youtube.com/watch?v=x9h8MgAvi_I&list=PLbIBj8vQhvm0VY5YrMrafWaQY2EnJ3j8H&index=4
+- State Teoria - Padrões de Projeto: https://www.youtube.com/watch?v=tSTPS2oHDmw&list=PLbIBj8vQhvm0VY5YrMrafWaQY2EnJ3j8H&index=33&t=420s
 
-- Singleton Prática - Padrões de Projeto: https://www.youtube.com/watch?v=JnCWTbICOWg&list=PLbIBj8vQhvm0VY5YrMrafWaQY2EnJ3j8H&index=5
+- State Prática - Padrões de Projeto: https://www.youtube.com/watch?v=a1JoummFS04&list=PLbIBj8vQhvm0VY5YrMrafWaQY2EnJ3j8H&index=34
