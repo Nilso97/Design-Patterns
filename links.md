@@ -1,4 +1,6 @@
-### Links para estudo:
-- Singleton Teoria - Padrões de Projeto: https://www.youtube.com/watch?v=x9h8MgAvi_I&list=PLbIBj8vQhvm0VY5YrMrafWaQY2EnJ3j8H&index=4
+### Links para estudos: 
+- Mediator Teoria - Padrões de Projeto: https://www.youtube.com/watch?v=fb7NrdCo4Ko&list=PLbIBj8vQhvm0VY5YrMrafWaQY2EnJ3j8H&index=35&t=9s
 
-- Singleton Prática - Padrões de Projeto: https://www.youtube.com/watch?v=JnCWTbICOWg&list=PLbIBj8vQhvm0VY5YrMrafWaQY2EnJ3j8H&index=5
+- Mediator Prática - Padrões de Projeto: https://www.youtube.com/watch?v=LogAsgJSXBw&list=PLbIBj8vQhvm0VY5YrMrafWaQY2EnJ3j8H&index=37
+
+- Padrão Mediator: https://refactoring.guru/pt-br/design-patterns/mediator
