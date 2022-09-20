@@ -1,4 +1,6 @@
 ### Links para estudo:
-- Singleton Teoria - Padrões de Projeto: https://www.youtube.com/watch?v=x9h8MgAvi_I&list=PLbIBj8vQhvm0VY5YrMrafWaQY2EnJ3j8H&index=4
+- Template Method Teoria - Padrões de Projeto: https://www.youtube.com/watch?v=-nSOKE4f2gA&list=PLbIBj8vQhvm0VY5YrMrafWaQY2EnJ3j8H&index=39
 
-- Singleton Prática - Padrões de Projeto: https://www.youtube.com/watch?v=JnCWTbICOWg&list=PLbIBj8vQhvm0VY5YrMrafWaQY2EnJ3j8H&index=5
+- Template Method Prática - Padrões de Projeto: https://www.youtube.com/watch?v=Adosr_aCTMI&list=PLbIBj8vQhvm0VY5YrMrafWaQY2EnJ3j8H&index=40
+
+- Padrão Template Method: https://refactoring.guru/pt-br/design-patterns/template-method
