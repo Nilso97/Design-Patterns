@@ -1,0 +1,22 @@
+"use strict";
+var __importDefault = (this && this.__importDefault) || function (mod) {
+    return (mod && mod.__esModule) ? mod : { "default": mod };
+};
+Object.defineProperty(exports, "__esModule", { value: true });
+const feed_1 = __importDefault(require("./classes/feed"));
+const subscriber_1 = __importDefault(require("./classes/subscriber"));
+const video_1 = __importDefault(require("./classes/video"));
+const video_notification_1 = __importDefault(require("./classes/video_notification"));
+const video = new video_1.default("0Eub-aQs-44", "Aprenda a Criar um CLI Para Automatizar seu Trabalho", "https://i9.ytimg.com/vi/0Eub-aQs-44/maxresdefault.jpg", "https://www.youtube.com/watch?v=0Eub-aQs-44");
+const videoNotification = new video_notification_1.default(video);
+const subscribe_1 = new subscriber_1.default(1, "John Doe");
+const subscribe_2 = new subscriber_1.default(2, "Michael Wait");
+const feedYoutube = new feed_1.default("UCFuIUoyHB12qpYa8Jpxoxow");
+videoNotification.subscribe(subscribe_1);
+videoNotification.subscribe(subscribe_2);
+videoNotification.subscribe(feedYoutube);
+console.log("Notificando os observers...");
+videoNotification.notifyAll();
+videoNotification.unsubscribe(subscribe_2);
+console.log("Notificando os observers...");
+videoNotification.notifyAll();

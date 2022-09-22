@@ -1,0 +1,21 @@
+"use strict";
+var __importDefault = (this && this.__importDefault) || function (mod) {
+    return (mod && mod.__esModule) ? mod : { "default": mod };
+};
+Object.defineProperty(exports, "__esModule", { value: true });
+const observer_1 = __importDefault(require("./classes/observer"));
+const subject_1 = __importDefault(require("./classes/subject"));
+const observerOne = new observer_1.default(1);
+const observerTwo = new observer_1.default(2);
+const observerThree = new observer_1.default(3);
+const subject = new subject_1.default();
+console.log("Subscribe 1,2 and 3");
+subject.subscribe(observerOne);
+subject.subscribe(observerTwo);
+subject.subscribe(observerThree);
+console.log("Notify all");
+subject.notifyAll();
+console.log("Unsubscribe 2");
+subject.unsubscribe(observerTwo);
+console.log("Notify all again");
+subject.notifyAll();
