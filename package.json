@@ -1,12 +1,10 @@
 {
-  "name": "singleton",
+  "name": "patterns",
   "version": "1.0.0",
   "main": "index.js",
+  "author": "Nilso97 <nilsojunior90@gmail.com>",
   "license": "MIT",
-  "scripts": {
-    "start": "node dist/db/my-database-classic.js"
-  },
   "devDependencies": {
-    "typescript": "^4.7.4"
+    "typescript": "^4.8.3"
   }
 }
