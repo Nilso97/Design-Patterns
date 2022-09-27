@@ -1,4 +1,4 @@
 ### Links para estudo:
-- Singleton Teoria - Padrões de Projeto: https://www.youtube.com/watch?v=x9h8MgAvi_I&list=PLbIBj8vQhvm0VY5YrMrafWaQY2EnJ3j8H&index=4
+- Visitor Prática e Teoria - Padrões de Projeto: https://www.youtube.com/watch?v=5PRG7rT2dcU&list=PLbIBj8vQhvm0VY5YrMrafWaQY2EnJ3j8H&index=45&t=1562s
 
-- Singleton Prática - Padrões de Projeto: https://www.youtube.com/watch?v=JnCWTbICOWg&list=PLbIBj8vQhvm0VY5YrMrafWaQY2EnJ3j8H&index=5
+- Visitor teoria: https://refactoring.guru/pt-br/design-patterns/visitor/php/example
